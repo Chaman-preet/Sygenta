@@ -6,6 +6,7 @@ public class graph1 {
 		// TODO Auto-generated method stub
 System.out.println("Another class added through git");
 System.out.println("Changes by chaman");
+
 	}
 
 }
