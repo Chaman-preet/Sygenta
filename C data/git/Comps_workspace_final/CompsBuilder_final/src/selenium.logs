@@ -1,0 +1,22 @@
+12:20:10,462  INFO devpinoyLogger<strong>{1}</strong>:76 - 
+
+Started Executing test case-> Login to application
+
+12:20:14,706  INFO devpinoyLogger<strong>{1}</strong>:192 - Test step is -> testlogin-[Login to application, , , , , Y, Firefox, ]
+12:20:14,706  INFO devpinoyLogger<strong>{1}</strong>:198 - PASS
+12:20:19,501  INFO devpinoyLogger<strong>{1}</strong>:192 - Test step is -> testlogin-[, GOTOURL, , , url, Y, Firefox, ]
+12:20:19,501  INFO devpinoyLogger<strong>{1}</strong>:198 - PASS
+12:20:21,885  INFO devpinoyLogger<strong>{1}</strong>:192 - Test step is -> testlogin-[, DRIVERWAIT, , , 2.0, Y, Firefox, ]
+12:20:21,886  INFO devpinoyLogger<strong>{1}</strong>:198 - PASS
+12:20:22,291  INFO devpinoyLogger<strong>{1}</strong>:192 - Test step is -> testlogin-[, SETTEXT, username, id, mala.gupta@evalueserve.com, Y, Firefox, ]
+12:20:22,291  INFO devpinoyLogger<strong>{1}</strong>:198 - PASS
+12:20:22,689  INFO devpinoyLogger<strong>{1}</strong>:192 - Test step is -> testlogin-[, SETTEXT, password, id, 123456.0, Y, Firefox, ]
+12:20:22,689  INFO devpinoyLogger<strong>{1}</strong>:198 - PASS
+12:20:23,210  INFO devpinoyLogger<strong>{1}</strong>:192 - Test step is -> testlogin-[, CLICK, clk, xpath, , Y, Firefox, ]
+12:20:23,211  INFO devpinoyLogger<strong>{1}</strong>:198 - PASS
+12:20:27,475  INFO devpinoyLogger<strong>{1}</strong>:192 - Test step is -> testlogin-[, CLICK, login, classname, , Y, Firefox, ]
+12:20:27,476  INFO devpinoyLogger<strong>{1}</strong>:198 - PASS
+12:20:27,651  INFO devpinoyLogger<strong>{1}</strong>:192 - Test step is -> testlogin-[, VERIFYELEMENTPRESENT, Trading_heading, xpath, , Y, Firefox, ]
+12:20:27,652  INFO devpinoyLogger<strong>{1}</strong>:198 - PASS
+12:20:27,945  INFO devpinoyLogger<strong>{1}</strong>:192 - Test step is -> testlogin-[, CLOSE, , , , Y, Firefox, ]
+12:20:27,945  INFO devpinoyLogger<strong>{1}</strong>:198 - PASS

@@ -1,0 +1,26 @@
+13:03:34,552  INFO devpinoyLogger<strong>{1}</strong>:76 - 
+
+Started Executing test case-> Login to application
+
+13:04:30,808  INFO devpinoyLogger<strong>{1}</strong>:192 - Test step is -> testlogin-[Login to application, , , , , Y, Chrome, fail]
+13:04:30,810 ERROR devpinoyLogger<strong>{1}</strong>:228 -  **FAIL - Unable to either launch or connect to Chrome. Please check that ChromeDriver is up-to-date. Using Chrome binary at: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 55.37 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'EVS01CPB424', ip: '172.16.30.75', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: ChromeDriver
+13:04:31,098  INFO devpinoyLogger<strong>{1}</strong>:192 - Test step is -> testlogin-[, GOTOURL, , , url, Y, Chrome, fail]
+13:04:31,098 ERROR devpinoyLogger<strong>{1}</strong>:228 -  **FAIL - null
+13:04:33,333  INFO devpinoyLogger<strong>{1}</strong>:192 - Test step is -> testlogin-[, DRIVERWAIT, , , 2.0, Y, Chrome, pass]
+13:04:33,334  INFO devpinoyLogger<strong>{1}</strong>:198 - PASS
+13:04:33,508  INFO devpinoyLogger<strong>{1}</strong>:192 - Test step is -> testlogin-[, SETTEXT, username, id, mala.gupta@evalueserve.com, Y, Chrome, fail]
+13:04:33,509 ERROR devpinoyLogger<strong>{1}</strong>:228 -  **FAIL - null
+13:04:33,661  INFO devpinoyLogger<strong>{1}</strong>:192 - Test step is -> testlogin-[, SETTEXT, password, id, 123456.0, Y, Chrome, fail]
+13:04:33,661 ERROR devpinoyLogger<strong>{1}</strong>:228 -  **FAIL - null
+13:04:33,797  INFO devpinoyLogger<strong>{1}</strong>:192 - Test step is -> testlogin-[, CLICK, clk, xpath, , Y, Chrome, fail]
+13:04:33,798 ERROR devpinoyLogger<strong>{1}</strong>:228 -  **FAIL - null
+13:04:33,889  INFO devpinoyLogger<strong>{1}</strong>:192 - Test step is -> testlogin-[, CLICK, login, classname, , Y, Chrome, fail]
+13:04:33,890 ERROR devpinoyLogger<strong>{1}</strong>:228 -  **FAIL - null
+13:04:34,018  INFO devpinoyLogger<strong>{1}</strong>:192 - Test step is -> testlogin-[, VERIFYELEMENTPRESENT, Trading_heading, xpath, , Y, Chrome, fail]
+13:04:34,019 ERROR devpinoyLogger<strong>{1}</strong>:228 -  **FAIL - null
+13:04:34,146  INFO devpinoyLogger<strong>{1}</strong>:192 - Test step is -> testlogin-[, CLOSE, , , , Y, Chrome, fail]
+13:04:34,147 ERROR devpinoyLogger<strong>{1}</strong>:228 -  **FAIL - null
